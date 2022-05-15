@@ -4,4 +4,4 @@
 
 ###### *Here, you may find information about the corporation listed for public viewing.*
 
-###### *For information about the start of the Quantum Corporation, view Inception.md.*
+###### *For information about the start of the Quantum Corporation, view [Inception.md](https://github.com/mortisgoree/Quantum-Corporation/blob/main/Inception.md).*
